@@ -36,6 +36,9 @@ git clone https://github.com/gusdev-r/educational-website-ucb.git
 Agora o projeto pode ser acessado a partir da pasta em que o repositório foi clonado, vale ressaltar que, até o momento do projeto, para uma melhor 
 experiência, baixe as imagens no seu computador e confira o projeto 100%.
 
+### Licença 
+- Este projeto está sob a licença MIT, garantindo liberdade e permissão de uso. 📜🔒
+
 <h1 align="center">
   Autor do projeto
 </h1>
