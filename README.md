@@ -3,10 +3,12 @@
 </h1>
 
 Projeto de desenvolvimento para trabalho acadêmico na <b>Universidade Católica de Brasília</b> na matéria de Front-end. 
-O tema do projeto está relacionado à descoberta do território brasileiro, mas decidi ir mais longe e criar um site 
-educacional com mais conteúdos para pesquisa de alunos e professores. 
+O tema do projeto está relacionado à descoberta do território brasileiro, mas decidi simular um site 
+educacional como o tema requisitado.
 
-OBS - Projeto ainda em desenvolvimento.
+### Acesse o projeto por esse link
+https://gusdev-r.github.io/educational-website-ucb/
+
 ## Tecnologias
  
 - HTML <img align="center" alt="gusdev-Spring" height="20" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
